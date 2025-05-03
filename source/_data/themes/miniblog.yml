@@ -1,0 +1,8 @@
+- name: miniblog
+  description: A minimal Hexo theme with neumorphism design
+  link: https://github.com/rick719520/hexo-theme-miniblog
+  preview: https://719520.xyz
+  tags:
+    - minimal
+    - responsive
+    - neumorphism
